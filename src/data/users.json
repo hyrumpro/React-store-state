@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "first_name": "Hyrum",
+    "last_name": "Perez",
+    "email": "prouserwp@wpress"
+  },
+  {
+    "id": 2,
+    "first_name": "Miguel",
+    "last_name": "Angel",
+    "email": "elangelgabr@gmail.com"
+  },
+  {
+    "id": 3,
+    "first_name": "Alonso",
+    "last_name": "Reyes",
+    "email": "fernanelcrack@gmail.com"
+  },
+  {
+    "id": 4,
+    "first_name": "Kevin",
+    "last_name": "Zavaleta",
+    "email": "elkevinblow@hotmail.com"
+  },
+  {
+    "id": 5,
+    "first_name": "Ale",
+    "last_name": "Garcia",
+    "email": "garciaxd@gmail.com"
+  }
+]
+
